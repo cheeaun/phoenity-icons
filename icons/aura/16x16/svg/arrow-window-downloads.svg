@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.0.0.4-->
+<svg stroke-width="0.501" stroke-linejoin="bevel" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="595.277pt" height="841.891pt" viewBox="0 0 595.277 841.891">
+ <defs>
+  <image id="Bitmap" preserveAspectRatio="none" width="0.001" height="0.001" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAALCAYAAACksgdhAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAOklEQVQokWNkYGBgAmIuIGZnIAx+AvE3FqgGPgbiAMhgRpAtbAykATYmBjLAqCZKNIEi9ztpWhi+AwDWxgQ2t3yJGQAAAABJRU5ErkJggg==">
+   <title>1</title>
+  </image>
+  <linearGradient id="LinearGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="-6" gradientTransform="translate(468.821 621.819)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#eeeeec"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="-8.25" gradientTransform="translate(478.571 619.569)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="0.545454561710358" stop-color="#73d216"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="4.5" gradientTransform="translate(477.821 615.069)">
+   <stop offset="0" stop-color="#333333"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+ </defs>
+ <g id="Document" fill="none" stroke="black" font-family="Times New Roman" font-size="16" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -841.891)">
+   <g id="opaque">
+    <path d="M 479.32,623.318 L 479.32,611.319 L 467.319,611.319 L 467.319,623.318 L 479.32,623.318 Z" stroke="none" stroke-width="0.5" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+   </g>
+   <g id="Layer 1">
+    <use transform="translate(467.319 623.319) scale(9750 -8250)" xlink:href="#Bitmap" stroke-width="0" fill="none" stroke="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 468.821,622.569 L 475.571,622.569 C 475.924,622.569 476.321,622.172 476.321,621.819 L 476.321,615.819 L 468.071,615.819 L 468.071,621.819 C 468.071,622.172 468.468,622.569 468.821,622.569 Z" stroke-linejoin="round" stroke="none" stroke-width="0.5" fill="#888a85" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 468.821,616.569 L 468.821,621.763 L 468.877,621.819 L 475.514,621.819 L 475.571,621.762 L 475.571,616.569 L 468.821,616.569 Z" stroke-linejoin="round" stroke="none" stroke-width="0.5" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient)"/>
+    <path d="M 469.571,620.319 C 469.571,620.672 469.968,621.069 470.321,621.069 L 474.071,621.069 C 474.424,621.069 474.821,620.672 474.821,620.319 C 474.821,619.966 474.424,619.569 474.071,619.569 L 470.321,619.569 C 469.968,619.569 469.571,619.966 469.571,620.319 Z" fill="#729fcf" stroke-linejoin="miter" stroke="none" stroke-width="0.5" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 468.82,618.818 L 468.82,616.569 L 475.571,616.569 L 475.571,618.818 L 468.82,618.818 Z" fill="#c7daef" stroke="none" stroke-width="0.5" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 469.946,618.069 C 470.153,618.069 470.322,617.901 470.322,617.694 C 470.322,617.487 470.153,617.319 469.946,617.319 C 469.739,617.319 469.57,617.487 469.57,617.694 C 469.57,617.901 469.739,618.069 469.946,618.069 Z" fill="#f57900" stroke="none" stroke-width="0.5" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 471.07,618.068 L 471.07,617.319 L 474.821,617.319 L 474.821,618.068 L 471.07,618.068 Z" fill="#8ae234" stroke="none" stroke-width="0.5" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 471.069,618.068 L 471.069,617.319 L 472.57,617.319 L 472.57,618.068 L 471.069,618.068 Z" fill="#4e9a06" stroke="none" stroke-width="0.5" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 475.571,618.819 C 475.924,618.819 476.321,618.422 476.321,618.069 L 476.321,615.819 L 478.571,615.819 C 478.821,615.819 478.747,615.245 478.571,615.069 L 475.571,612.069 C 475.218,611.716 474.424,611.716 474.071,612.069 L 471.071,615.069 C 470.895,615.245 470.821,615.819 471.071,615.819 L 473.321,615.819 L 473.321,618.069 C 473.321,618.422 473.718,618.819 474.071,618.819 L 475.571,618.819 Z" stroke-linejoin="round" stroke="none" stroke-width="0.5" fill="#4e9a06" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 474.821,612.554 C 474.685,612.554 474.609,612.593 474.598,612.602 L 472.131,615.069 L 473.321,615.069 C 473.734,615.069 474.071,615.405 474.071,615.819 L 474.071,618.013 L 474.127,618.069 L 475.514,618.069 L 475.571,618.012 L 475.571,615.819 C 475.571,615.405 475.907,615.069 476.321,615.069 L 477.51,615.069 L 475.042,612.601 L 474.979,612.575 C 474.942,612.564 474.889,612.554 474.821,612.554 Z" stroke-width="0.75" stroke-linejoin="round" stroke="none" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_1)"/>
+    <mask id="TranspMask">
+     <rect x="-10%" y="-10%" width="120%" height="120%" fill="url(#LinearGradient_2)" stroke="none"/>
+    </mask>
+    <path d="M 473.38,615.075 L 473.471,615.084 C 473.812,615.154 474.071,615.456 474.071,615.819 L 474.071,618.013 L 474.127,618.069 L 475.514,618.069 L 475.571,618.012 L 475.571,615.819 C 475.571,615.456 475.828,615.154 476.169,615.084 L 476.261,615.075 L 473.38,615.075 Z" fill="#ffffff" stroke-width="0.5" stroke="none" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" mask="url(#TranspMask)"/>
+   </g>
+  </g>
+ </g>
+</svg>
